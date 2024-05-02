@@ -1,0 +1,7 @@
+os
+pillow
+google.generativeai
+pathlib
+textwrap
+dotenv
+streamlit
